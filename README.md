@@ -12,6 +12,8 @@ via the `Tools` -> `Board:` -> `ESP Arduino` -> `AI Thinker ESP32-CA` 3/4 down
 
 ## Examples 
 
+The following examples are using the `OV2640` camera sensor
+
 ### 1. Basic
 - Wi-Fi
 - Camera
