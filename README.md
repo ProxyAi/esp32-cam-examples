@@ -1,5 +1,9 @@
 # esp32-cam-examples
 
+Install the esp32 boards via the `tools` -> `Board:` -> `Boards Manager` -> type `esp` -> scroll to bottom
+
+![image](https://github.com/user-attachments/assets/87c17cc3-5ce7-48cc-9297-aeeb13e80eab)
+
 
 1. Basic
 - Wi-Fi
