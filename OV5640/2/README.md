@@ -9,3 +9,9 @@
 ## Setup:
 - Connect to Wi-Fi networks
 - Start the video stream and web server
+
+
+## Html controls
+
+
+![image](https://github.com/user-attachments/assets/c598bf15-408e-46a6-9579-483c26ff332f)
