@@ -1,8 +1,8 @@
 # ESP32-CAM Video Streaming (OV5640)
 
 ## Key Features:
-- **Camera Configuration**: Auto-adjusts settings based on PSRAM availability (e.g., frame size and buffer count).
-- **Sync browser settings**: Gets camera settings current state from ESP configs.
+- **Camera Configuration**: Access to change image resolution and quality.
+- **Sync Browser Camera Settings**: Camera html inputs sync with esp current state.
 - **Optimised Tasks**: Optimised the method to help with over heating.
 
 ## Setup:
